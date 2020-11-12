@@ -4,6 +4,9 @@
 
 In an effort to see whether Citibike, a bike service offered in New York City, could be replicated in Des Moines, Iowa we examined collected data taken by Citibike. This data was transformed to meet our needs and then visually represented in a series of charts through the use of Tableau so that they may be presented to a potential angel investor. The purpose of creating these graphs and analyzing this data is to figure out how the bike sharing service works in New York so that we can create a successful business plan.
 
+---
+You can visit the [Dashboard here!](https://public.tableau.com/profile/francisco4691#!/vizhome/Challenge_16052222916600/Challenge?publish=yes).
+
 ## **Results**
 
 After analyzing the data collected from Citibike there are several conclusions that can be drawn. These results are listed below and follow the visualizations created in my Tableau story:
